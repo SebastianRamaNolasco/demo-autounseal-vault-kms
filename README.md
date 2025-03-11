@@ -8,11 +8,11 @@
 
 1. Export your AWS credentials as environment variables: `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY`.
 
-1. Override default AWS region and zone in a `terraform.tfvars` file as needed (see `terraform.tfvars.example`).
+1. Override default AWS region and zone in a `terraform.tfvars` file as needed.
 
 ### Commands Cheat Sheet
 
-These are the commands which are shown in the tutorial content.
+These are the commands which are shown in the demo.
 
 #### Terraform
 
